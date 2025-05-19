@@ -26,7 +26,7 @@ function loopindex() {
     } while (asd === Pointernumbr.innerHTML)
 
     Pointernumbr.innerHTML = asd;
-    console.log(asd);
+ 
 
 }
 
